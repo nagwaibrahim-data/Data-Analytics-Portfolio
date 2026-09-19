@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project analyzes Adidas sales data to understand overall business performance, profitability, product performance, and sales trends.
+This project analyzes Adidas sales data to understand overall business performance, profitability, product performance, regional performance, and sales trends.
 
-The dashboard was developed using **Microsoft Power BI** to transform sales data into interactive visualizations and business insights.
+The dashboard was developed using **Microsoft Power BI** to transform sales data into interactive visualizations and actionable business insights.
 
 ---
 
@@ -16,8 +16,9 @@ The main objective of this project is to answer key business questions such as:
 - Which products perform best?
 - Which regions generate the highest sales?
 - How does profit vary across products and regions?
-- What are the main sales trends?
-- Where are potential performance gaps?
+- What happened to sales and profitability?
+- Why did certain performance patterns occur?
+- What actions can management take based on the analysis?
 
 ---
 
@@ -48,25 +49,37 @@ The dashboard tracks important business performance indicators including:
 
 ---
 
-## 📈 Dashboard Analysis
+## 📈 Dashboard Structure
 
-The dashboard provides analysis of:
+The dashboard consists of four main pages:
 
-### 💰 Sales & Profitability
+### 🏠 Home
 
-Analysis of revenue, profit, quantity sold, and profit margin.
+Provides an overview of the project and the main business performance indicators.
 
-### 👟 Product Performance
+### 📊 Descriptive Analysis
 
-Comparison of sales and profitability across different Adidas products.
+Answers the question:
 
-### 🌎 Regional Performance
+**"What happened?"**
 
-Analysis of sales and profit across different regions.
+This page analyzes sales, profit, quantity, profit margin, product performance, regional performance, and sales trends.
 
-### 📅 Sales Trends
+### 🔎 Diagnostic Analysis
 
-Analysis of sales performance over time to identify trends and changes in business performance.
+Answers the question:
+
+**"Why did it happen?"**
+
+This page explores the factors behind sales and profitability performance and helps identify areas that require further investigation.
+
+### 🎯 Prescriptive Analysis
+
+Answers the question:
+
+**"What should we do?"**
+
+This page translates the analysis into actionable business recommendations and supports data-driven decision-making.
 
 ---
 
@@ -79,6 +92,7 @@ The dashboard helps management:
 - Monitor overall sales and profit trends.
 - Identify areas with lower performance.
 - Understand the relationship between sales volume and profitability.
+- Identify areas that may require further investigation.
 
 ---
 
@@ -91,12 +105,28 @@ Based on the analysis, management can:
 3. Compare sales volume with profit contribution.
 4. Monitor profit margin alongside revenue.
 5. Use historical trends to support future sales planning.
+6. Focus on areas identified through diagnostic analysis.
+7. Use prescriptive insights to support data-driven decisions.
 
 ---
 
 ## 📷 Dashboard Preview
 
-Dashboard screenshots will be added here.
+### 🏠 Home
+
+![Adidas Dashboard Home](images/home.png)
+
+### 📊 Descriptive Analysis
+
+![Adidas Descriptive Analysis](images/descriptive-analysis.png)
+
+### 🔎 Diagnostic Analysis
+
+![Adidas Diagnostic Analysis](images/diagnostic-analysis.png)
+
+### 🎯 Prescriptive Analysis
+
+![Adidas Prescriptive Analysis](images/prescriptive-analysis.png)
 
 ---
 
@@ -110,6 +140,9 @@ This project demonstrates practical experience in:
 - Data Modeling
 - KPI Development
 - Data Visualization
+- Descriptive Analytics
+- Diagnostic Analytics
+- Prescriptive Analytics
 - Sales Analysis
 - Profitability Analysis
 - Business Intelligence
@@ -123,4 +156,4 @@ This project demonstrates practical experience in:
 
 **Data Analyst | Business Intelligence | Financial Analysis**
 
-This project is part of my **Data Analytics Portfolio**.
+This project is part of my **Data Analytics Portfolio**, showcasing practical projects in Power BI, Excel, SQL, Python, and Business Intelligence.

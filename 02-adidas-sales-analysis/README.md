@@ -51,13 +51,13 @@ The dashboard tracks important business performance indicators including:
 
 ## 📈 Dashboard Structure
 
-The dashboard consists of four main pages:
+The dashboard consists of four main analytical pages:
 
-### 🏠 Home
+### 🏠 1. Home
 
 Provides an overview of the project and the main business performance indicators.
 
-### 📊 Descriptive Analysis
+### 📊 2. Sales Performance Summary — Descriptive Analysis
 
 Answers the question:
 
@@ -65,7 +65,7 @@ Answers the question:
 
 This page analyzes sales, profit, quantity, profit margin, product performance, regional performance, and sales trends.
 
-### 🔎 Diagnostic Analysis
+### 🔎 3. Performance — Diagnostic Analysis
 
 Answers the question:
 
@@ -73,7 +73,7 @@ Answers the question:
 
 This page explores the factors behind sales and profitability performance and helps identify areas that require further investigation.
 
-### 🎯 Prescriptive Analysis
+### 🎯 4. Data-Driven Recommendation — Prescriptive Analysis
 
 Answers the question:
 
@@ -114,19 +114,19 @@ Based on the analysis, management can:
 
 ### 🏠 Home
 
-![Adidas Dashboard Home](images/home.png)
+![Adidas Dashboard Home](images/01-home.png)
 
-### 📊 Descriptive Analysis
+### 📊 Sales Performance Summary — Descriptive Analysis
 
-![Adidas Descriptive Analysis](images/descriptive-analysis.png)
+![Adidas Sales Performance Summary](images/02-descriptive.png)
 
-### 🔎 Diagnostic Analysis
+### 🔎 Performance — Diagnostic Analysis
 
-![Adidas Diagnostic Analysis](images/diagnostic-analysis.png)
+![Adidas Performance Analysis](images/03-diagnostic.png)
 
-### 🎯 Prescriptive Analysis
+### 🎯 Data-Driven Recommendation — Prescriptive Analysis
 
-![Adidas Prescriptive Analysis](images/prescriptive-analysis.png)
+![Adidas Data-Driven Recommendation](images/04-prescriptive.png)
 
 ---
 

@@ -4,7 +4,7 @@ Data Analyst | Business Intelligence | Financial Analysis
 
 Welcome to my Data Analytics Portfolio.
 
-This repository showcases my practical work in Excel, SQL, Power BI, Python, and Business Intelligence, with a focus on transforming data into meaningful business insights and supporting data-driven decisions.
+This repository showcases my practical work in Excel, SQL, Power BI, Tableau, Python, and Business Intelligence, with a focus on transforming data into meaningful business insights and supporting data-driven decisions.
 
 ---
 
@@ -45,6 +45,14 @@ This repository showcases my practical work in Excel, SQL, Power BI, Python, and
 - KPI Development
 - Business Intelligence
 - What-If Analysis
+
+📊 Tableau
+
+- Interactive Dashboards
+- Data Visualization
+- KPI Analysis
+- Sales Analysis
+- Business Performance Analysis
 
 🐍 Python
 
@@ -95,19 +103,19 @@ An analysis of Airbnb listings with a focus on pricing, availability, reviews, h
 
 The project includes data cleaning and transformation to prepare the dataset for meaningful analysis.
 
-Tools: Python, Pandas, NumPy, Data Cleaning, Data Analysis
+Tools: Power BI, Power Query, Data Modeling, DAX, Data Analysis
 
 📁 "View Project" (./03-airbnb-open-data)
 
 ---
 
-4. 💊 Pharmacy Inventory Analysis
+4. 💊 Pharmacy Inventory Analysis — Power BI
 
 An inventory analysis project designed to support better inventory management and business decisions.
 
-The analysis includes ABC/Pareto analysis, lead time analysis, inventory performance, and What-If scenarios.
+The analysis includes inventory performance, stock status, reorder analysis, ABC/Pareto analysis, capital tied up in inventory, and What-If scenarios.
 
-Tools: Excel, Power Query, Business Analytics
+Tools: Power BI, Power Query, DAX, Data Modeling, Business Analytics
 
 📁 "View Project" (./04-pharmacy-inventory)
 
@@ -125,7 +133,19 @@ Tools: Excel, Power Query, Power Pivot, Pivot Tables, Dashboard Design
 
 ---
 
-6. 🗃️ SQL Data Analysis Project
+6. 📊 Sales Dashboard — Tableau
+
+An interactive Tableau dashboard focused on analyzing sales performance, KPIs, trends, and business insights.
+
+The project demonstrates data visualization and dashboard development using Tableau to transform sales data into actionable insights.
+
+Tools: Tableau, Data Visualization, KPI Analysis, Sales Analysis, Business Intelligence
+
+📁 "View Project" (./06-sales-dashboard-tableau)
+
+---
+
+7. 🗃️ SQL Data Analysis Project
 
 A practical SQL analysis project focused on answering business questions using structured operational data.
 
@@ -133,7 +153,7 @@ The project demonstrates filtering, aggregations, joins, grouping, and analytica
 
 Tools: SQL Server, SSMS, SQL
 
-📁 "View Project" (./06-sql-data-analysis)
+📁 "View Project" (./07-sql-data-analysis)
 
 ---
 
